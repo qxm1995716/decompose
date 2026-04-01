@@ -18,7 +18,7 @@ This work is licensed under a
 Due to GitHub file size limitations, the pretrained checkpoint files are not included in this repository.
 
 To request access, please contact:
-📧 qinxm@sio.org.cn
+qinxm@sio.org.cn
 
 We will provide the download link as soon as possible.
 
