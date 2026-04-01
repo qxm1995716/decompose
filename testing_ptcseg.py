@@ -132,7 +132,7 @@ def testing(args, log):
 
     #
     log.log_string('Loading Testing Datasets......')
-    testing_dataloader = RTS_Dataloader_V2(data_dict=r'/rd5m/QXM/PTC_SEG/datasets_v1/testing',
+    testing_dataloader = RTS_Dataloader_V2(data_dict=r'./testing',
                                            at_dist_dim=args.at_dist_dim,
                                            h_dim=args.h_dim,
                                            label_dim=args.gt_dim,
