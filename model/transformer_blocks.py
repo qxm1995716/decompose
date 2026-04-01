@@ -77,7 +77,9 @@ class MultiHeadSelfAttention_v1(nn.Module):
 
 
 class MultiHeadSelfAttention_O(nn.Module):
-    # 这里粘贴Pytorch中TransformerEncoderLayer代码，用来说明nn.MultiheadAttention的用法，此处用的是norm_first的方法
+    # Adapted from PyTorch Transformer class
+    # https://github.com/pytorch/pytorch/blob/main/torch/nn/modules/transformer.py
+    # BSD 3-Clause License
     """
     x = src
         if self.norm_first:
