@@ -20,7 +20,7 @@ Due to GitHub file size limitations, the pretrained checkpoint files are not inc
 To request access, please contact:
 qinxm@sio.org.cn
 
-We will provide the download link as soon as possible.
+We will provide the temporal download link for you as soon as possible.
 
 # Contact us
 
